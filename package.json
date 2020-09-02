@@ -19,7 +19,7 @@
   "dependencies": {
     "currency.js": "^1.2.1",
     "express": "^4.16.4",
-    "googleapis": "^27.0.0",
+    "googleapis": "^59.0.0",
     "moment": "^2.24.0",
     "nodemailer": "^6.3.0",
     "puppeteer": "^1.14.0",
